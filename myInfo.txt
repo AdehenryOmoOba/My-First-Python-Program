@@ -1,0 +1,7 @@
+this is a sample test file, i am new to python and i am very excited!
+i am going to crawl this text file
+python is an interesting language
+God is good kid kid kid kid kid
+all the time
+and all the time
+God is goodddddddddddddddddd
